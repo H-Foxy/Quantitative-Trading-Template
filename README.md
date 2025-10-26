@@ -1,7 +1,7 @@
-# QuantitativeSwingTradingAlgorithm
-Final project for BSc Computer Science. A stock market quantitative swing trading algorithm.
+# Quantitative-Trading-Template
+Final project for BSc Computer Science. A stock market quantitative trading algorithm.
 
-This repository is a template for developing a machine learning model to backtest in quantitative trading.
+This repository is a template for testing trading strategies with a machine learning model.
 
 output_type:
 
@@ -23,4 +23,5 @@ PACKAGES:
 - backtesting
 - yfinance
 - stable_baselines3 [Extra]
+
 
